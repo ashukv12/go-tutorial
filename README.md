@@ -15,9 +15,6 @@ This repo contains Golang tutorials with simple examples.
   `go run main.go`
 
 
-## Packages
-- [Golang packages](https://github.com/ashukv12/go-tutorial/tree/main/03-packages-and-scopes)
-
 ## Statements and expressions
 - [Statements and expressions](https://github.com/ashukv12/go-tutorial/tree/main/04-statements-expressions-comments)
 
@@ -30,6 +27,9 @@ This repo contains Golang tutorials with simple examples.
 
 ## Control Structures
 - [Golang Control Flow Statements](https://github.com/ashukv12/go-tutorial/tree/main/08-control-flow-statements)
+
+## Packages
+- [Golang packages](https://github.com/ashukv12/go-tutorial/tree/main/03-packages-and-scopes)
 
 ## Collection Types
 - [Arrays in Golang](https://github.com/ashukv12/go-tutorial/tree/main/10-Arrays)
