@@ -7,7 +7,7 @@ This repo contains Golang tutorials with simple examples.
 - [Writing your first Go program](https://github.com/ashukv12/go-tutorial/tree/main/first-program)
 
 ## Packages
-- [Golang packages](packages-and-scopes)
+- [Golang packages](https://github.com/ashukv12/go-tutorial/tree/main/03-packages-and-scopes)
 
 ## Statements and expressions
 - [Statements and expressions](https://github.com/ashukv12/go-tutorial/tree/main/04-statements-expressions-comments)
@@ -22,22 +22,25 @@ This repo contains Golang tutorials with simple examples.
 ## Control Structures
 - [Golang Control Flow Statements](https://github.com/ashukv12/go-tutorial/tree/main/08-control-flow-statements)
 
-## Functions
-- [Functions in Go]()
-
 ## Collection Types
-- [Arrays in Golang]()
+- [Arrays in Golang](https://github.com/ashukv12/go-tutorial/tree/main/10-Arrays)
 
-- [Slices in Golang]()
+- [Slices in Golang](https://github.com/ashukv12/go-tutorial/tree/main/11-Slices)
 
-- [Golang Maps by Example]()
+- [Golang Maps by Example](https://github.com/ashukv12/go-tutorial/tree/main/12-Maps)
 
 ## Pointers and Structs
-- [Pointers in Golang]()
+- [Pointers in Golang](https://github.com/ashukv12/go-tutorial/tree/main/13-Pointers)
 
-- [Golang Structs]()
+- [Golang Structs](https://github.com/ashukv12/go-tutorial/tree/main/14-%20Structs)
 
 ## Methods and Interfaces
-- [Golang Methods]() 
+- [Golang Methods](https://github.com/ashukv12/go-tutorial/tree/main/15-methods) 
 
-- [Golang Interfaces]()
+- [Golang Interfaces](https://github.com/ashukv12/go-tutorial/tree/main/16-Interfaces)
+
+## Reading command line arguments
+- [Reading command line arguments](https://github.com/ashukv12/go-tutorial/tree/main/17-Reading%20command%20line%20arguments) 
+
+## Environment Variables
+- [Environment Variables](https://github.com/ashukv12/go-tutorial/tree/main/18-Environment%20Variables) 
