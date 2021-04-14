@@ -22,24 +22,22 @@ This repo contains Golang tutorials with simple examples.
 ## Control Structures
 - [Golang Control Flow Statements](https://github.com/ashukv12/go-tutorial/tree/main/08-control-flow-statements)
 
-## Functions and Packages
-- Introduction to Functions in Go
-
-- A beginners guide to Packages in Golang
+## Functions
+- [Functions in Go]()
 
 ## Collection Types
-- Working with Arrays in Golang
+- [Arrays in Golang]()
 
-- Introduction to Slices in Golang
+- [Slices in Golang]()
 
-- Golang Maps by Example
+- [Golang Maps by Example]()
 
 ## Pointers and Structs
-- Playing with Pointers in Golang
+- [Pointers in Golang]()
 
-- Golang Structs Tutorial with Examples
+- [Golang Structs]()
 
 ## Methods and Interfaces
-- Golang Methods Tutorial with Examples
+- [Golang Methods]() 
 
-- Golang Interfaces Tutorial with Examples
+- [Golang Interfaces]()
