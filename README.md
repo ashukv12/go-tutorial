@@ -3,42 +3,43 @@
 This repo contains Golang tutorials with simple examples.
 
 ## Getting Started
-- Golang Installation, Setup
+- Golang Installation and Setup
 - [Writing your first Go program](https://github.com/ashukv12/go-tutorial/tree/main/first-program)
 
 ## Packages
-[Golang packages](packages-and-scopes)
+- [Golang packages](packages-and-scopes)
 
-## statements-expressions-comments
+## Statements and expressions
+- [Statements and expressions](https://github.com/ashukv12/go-tutorial/tree/main/04-statements-expressions-comments)
 
 ## Variables, Constants, and Data Types
 - [Golang Variables](https://github.com/ashukv12/go-tutorial/tree/main/02-variables)
 
-Golang Basic Types, Operators, and Type Conversion
+- [Golang Operators](https://github.com/ashukv12/go-tutorial/tree/main/06-Operators)
 
-Working with Constants in Golang
+- [Constants in Golang](https://github.com/ashukv12/go-tutorial/tree/main/07-constants)
 
 ## Control Structures
-Golang Control Flow Statements: If, Switch and For
+- [Golang Control Flow Statements](https://github.com/ashukv12/go-tutorial/tree/main/08-control-flow-statements)
 
 ## Functions and Packages
-Introduction to Functions in Go
+- Introduction to Functions in Go
 
-A beginners guide to Packages in Golang
+- A beginners guide to Packages in Golang
 
 ## Collection Types
-Working with Arrays in Golang
+- Working with Arrays in Golang
 
-Introduction to Slices in Golang
+- Introduction to Slices in Golang
 
-Golang Maps by Example
+- Golang Maps by Example
 
 ## Pointers and Structs
-Playing with Pointers in Golang
+- Playing with Pointers in Golang
 
-Golang Structs Tutorial with Examples
+- Golang Structs Tutorial with Examples
 
 ## Methods and Interfaces
-Golang Methods Tutorial with Examples
+- Golang Methods Tutorial with Examples
 
-Golang Interfaces Tutorial with Examples
+- Golang Interfaces Tutorial with Examples
