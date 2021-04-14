@@ -3,8 +3,17 @@
 This repo contains Golang tutorials with simple examples.
 
 ## Getting Started
+
 - Golang Installation and Setup
+
+  Download the Windows MSI installer file from [Go’s official download page](https://golang.org/dl/). Open the installer and follow the on-screen instructions to install Go in your windows system. By default, the installer installs Go in C:\Go
+
 - [Writing your first Go program](https://github.com/ashukv12/go-tutorial/tree/main/first-program)
+
+  To run the above program, use this command:
+
+  `go run main.go`
+
 
 ## Packages
 - [Golang packages](https://github.com/ashukv12/go-tutorial/tree/main/03-packages-and-scopes)
